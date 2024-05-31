@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-void main () 
-{
+void main () {
   int a, b, sum1, dif1;
   float c, d, sum2, dif2;
 

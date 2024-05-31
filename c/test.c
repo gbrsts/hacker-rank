@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-struct person
-{
+struct person {
   char name[50];
   int age, id;
   double salary;

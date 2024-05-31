@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-void main () 
-{
+void main () {
   char ch, s[20], sen[100];
   
   scanf("%c %s \n", &ch, &s);
